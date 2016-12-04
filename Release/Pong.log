@@ -1,0 +1,37 @@
+﻿  ball.cpp
+  BuildBricks.cpp
+  Button.cpp
+  ChangePlayerDirection.cpp
+  CollisionControl.cpp
+  CreateBackground.cpp
+  CreateTextures.cpp
+  CreateWindow.cpp
+  Draw.cpp
+source\Draw.cpp(26): warning C4474: 'sprintf_s' : too many arguments passed for format string
+  source\Draw.cpp(26): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  engine.cpp
+  EventFilter.cpp
+  FPSControl.cpp
+source\FPSControl.cpp(7): warning C4018: '<': signed/unsigned mismatch
+  gameobject.cpp
+  InitCountdown.cpp
+  InitText.cpp
+  Intro.cpp
+source\Intro.cpp(23): warning C4805: '|': unsafe mix of type 'bool' and type 'const Uint8' in operation
+  LoadConfig.cpp
+source\LoadConfig.cpp(30): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  main.cpp
+  Menu.cpp
+  MovementControl.cpp
+  Generating Code...
+  Compiling...
+  player.cpp
+  PrintMessage.cpp
+  Reset.cpp
+  SaveConfig.cpp
+  Start.cpp
+  stdafx.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  Pong.vcxproj -> D:\Users\Documents D\Programming\Pong_v1.2_CermakM_VCP16_c\Release\Pong.exe
+  Pong.vcxproj -> D:\Users\Documents D\Programming\Pong_v1.2_CermakM_VCP16_c\Release\Pong.pdb (Full PDB)

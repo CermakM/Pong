@@ -1,0 +1,5 @@
+WIDTH=1080
+HEIGH=760
+score=0
+level=1
+SKIP_INTRO=0
